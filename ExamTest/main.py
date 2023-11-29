@@ -1,6 +1,3 @@
-import json
-import datetime
-
 application = {}
 filename = "notes_file.txt"
 
